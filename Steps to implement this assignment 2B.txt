@@ -64,3 +64,22 @@
         4. What do you mean by docker images?
  5. Which commands have you used to implement this assignment? 
  6. Explain the steps to create docker images.
+ 
+ 
+ 
+ ** for app wale k liye
+ 
+ npm i
+ 
+ node ./app.js
+ 
+ 
+ 
+ 
+ ** for 3b
+
+https://nodejs.org
+npm install -g@angular/cli
+
+ng version
+ng serve
